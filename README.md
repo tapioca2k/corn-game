@@ -1,7 +1,8 @@
 # Farmville Royale
 I made this for a game jam. To build it, you'll need to install Monogame and Visual Studio (2019?). 
 
-Go to the "Releases" tab for an exe.
+Go to the "Releases" tab for an exe. It probably won't work, but installing [monogame](monogame.net) itself on your machine might fix that.
+
 Gamepad controls are listed ingame (player 1 can use the dpad to select the level) but these are the keyboard controls for player 1:
 	*  W/A/S/D move (A/D select map in menu)
 	*  L corn missile
