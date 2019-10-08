@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/BasicFont.spritefont</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/bridge.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/corn1.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/corn2.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/corn3.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/corn4.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/cornBig1.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/cornBig2.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/cornBig3.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/cornBig4.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/cornUI1.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/cornUI2.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/cornUI3.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/cornUI4.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/dashsfx.wav</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/deathsfx.wav</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/eatsfx.wav</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/fightsfx.wav</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/firesfx.wav</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/firing squad.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/Hat.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/hell.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/hitsfx.wav</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/Missile.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/missileShadow.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/onesfx.wav</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/playerShadow.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/Ready.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/readysfx.wav</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/science.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/screamsfx.wav</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/selectsfx.wav</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/skyscraper.png</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/SmallFont.spritefont</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/teleportsfx.wav</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/threesfx.wav</File>
+    <File>C:/Users/Andrew/source/repos/Glamour2/Glamour2/Content/twosfx.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
